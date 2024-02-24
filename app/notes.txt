@@ -1,0 +1,2 @@
+vi behöver skicka in tuple + 1
+[sunny, gridview, function]

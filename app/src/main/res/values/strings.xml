@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LiveWallpaperAutoChanger</string>
+    <string name="test">Test: %s</string>
+    <string name="sunnyWeather"></string>
+</resources>
