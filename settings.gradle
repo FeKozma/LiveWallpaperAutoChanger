@@ -12,8 +12,6 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "LiveWallpaperAutoChanger"
+
+rootProject.name = "My Application4"
 include ':app'
-
-
-import org.gradle.api.initialization.resolve.RepositoriesMode
